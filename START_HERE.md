@@ -11,10 +11,6 @@ This is **real local-development code**, not a mockup. It implements vehicle man
 - Two terminal windows
 - You do **not** need OpenAI, Supabase, Twilio, Resend, or Docker accounts to complete Milestone 1.
 
-## First installation
-
-Unzip the starter into your existing `CarMaintenanceApp` repository. Keep your current README.md. The files in this archive live in `apps/api` and `apps/web`.
-
 ### Terminal A: Backend
 
 On Windows PowerShell, from your repository root:
